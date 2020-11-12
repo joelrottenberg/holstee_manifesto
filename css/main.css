@@ -1,0 +1,106 @@
+.holstee{
+  width: 400px;
+  height: 1000px;
+  border: 10px solid #e4dfda;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.full{
+  width: 190px;
+  height: 360px;
+  padding: 20px 5px 20px 5px;
+  text-align: center;
+
+
+}
+
+.half{
+  text-align: center;
+
+}
+
+.varelaround{
+  font-family: 'Varela Round', sans-serif;
+  font-weight: 900;
+}
+
+.calistoga{
+  font-family: 'Calistoga', cursive;
+  font-weight: 900;
+}
+
+.dancingscript{
+  font-family: 'Dancing Script', cursive;
+  font-weight: 900;
+}
+
+.unicaone{
+font-family: 'Unica One', cursive;
+font-weight: 900;
+}
+
+#left-1{
+  background: #f6bab7;
+  float: left;
+  font-size: 23px;
+}
+
+#right-1{
+  background: #abbaf8;
+  float: right;
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+}
+
+#left-2{
+  background: #40f3d0;
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+  font-size: 125%;
+}
+
+#right-2{
+  background: #35dc40;
+  float: right;
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+}
+
+#left-3{
+  background: #f4dde8;
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+  font-size: 27px;
+}
+
+#right-3{
+  background: #e2f4dd;
+  float: right;
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+  font-size: 125%;
+}
+
+#left-4{
+  background: #1c9ba6;
+  float: left;
+  clear: left;
+  width: 180px;
+  height: 70px;
+  padding: 65px 10px 65px 10px;
+  font-size: 145%;
+}
+
+#right-4{
+  background: #b08951;
+  float: right;
+  margin-top: -200px;
+  font-size: 25px;
+}
